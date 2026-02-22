@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack & GenAI Developer | Building Scalable AI Systems & Production-Ready Applications 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityatomar28&label=Profile%20views&color=0e75b6&style=flat" alt="Adityatomar28" />
+  alt="Adityatomar28" />
 </p>
 
 <p align="center">
