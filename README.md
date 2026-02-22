@@ -2,9 +2,7 @@
 
 <h3 align="center">Full Stack & GenAI Developer | Building Scalable AI Systems & Production-Ready Applications 🚀</h3>
 
-<p align="center">
-  alt="Adityatomar28" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
