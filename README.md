@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Adityatomar28&theme=onedark&margin-w=10" />
+   <img src="https://github-profile-trophy.vercel.app/?username=Adityatomar28&theme=onedark&margin-w=10&no-frame=true&row=1&column=6" />
   </a>
 </p>
 
@@ -81,11 +81,11 @@
 ---
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityatomar28&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityatomar28&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityatomar28&show_icons=true&locale=en" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityatomar28&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <br clear="both">
