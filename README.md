@@ -65,7 +65,7 @@ class Aditya:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adityatomar28&theme=onestar&no-frame=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Adityatomar28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" alt="GitHub Trophies" />
 
 </div>
 
@@ -91,6 +91,8 @@ class Aditya:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### 🤖 AI / GenAI
